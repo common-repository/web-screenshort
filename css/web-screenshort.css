@@ -1,0 +1,29 @@
+	/* \\\\\\ General Resets \\\\\\ */
+	body, #body-table {height:100% !important; width:100% !important; margin:0; padding:0;}
+	img, a img {border:0; outline:none; text-decoration:none;}
+	.image-fix {display:block;}
+	table, td {border-collapse:collapse;}
+	
+	
+	/* \\\\\\ Start Template Styles \\\\\\ */
+	
+	/* Main */
+	@import url(http://fonts.googleapis.com/css?family=PT+Sans); /* Add Optional Web Font */
+	
+	body, #body-table { 
+		background-color: #ecf0f1;
+	}
+	
+	p {padding:0; margin: 0; line-height: 24px;}
+	
+	a, a:link {
+		color: #d35a5f;
+		text-decoration: none;
+	}
+	
+	.footer-link a, .nav-link a {
+		color: #fff6e5;
+	}
+ 	i.web-screenshort {
+	background-image: url('../img/web-screenshort.png');
+	}
